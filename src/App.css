@@ -1,0 +1,8 @@
+/** @format */
+
+.bg-night {
+	background: linear-gradient(167deg, #08244f 0%, #134cb5 47.38%, #0b42ab 100%);
+}
+.bg-day {
+  background: linear-gradient(167deg, #29B2DD 0%, #3AD 47.38%, #2DC8EA 100%);
+}
